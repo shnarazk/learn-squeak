@@ -1,0 +1,14 @@
+{
+	"category" : "PiFinder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PiFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
